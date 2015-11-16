@@ -1,0 +1,64 @@
+/* Add your Google Header Font to the beginning of the font-family list */
+h1, h2, h3, h4, h5, h6,
+header .intro-text .name,
+.navbar .navbar-header{
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+
+
+/* Add your Google Body Font to the beginning of the font-family list */
+body{
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+
+
+/* Swap out all #18bc9c with a LIGHT color from your color palette */
+a:hover,
+a:focus,
+a:active,
+a.active,
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active,
+.btn-outline.active,
+.floating-label-form-group-with-focus label,
+.navbar-default .navbar-brand:hover, 
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:focus{
+    color: #18bc9c !important;
+}
+
+hr.star-light:after,
+header,
+section.success,
+#portfolio .portfolio-item .portfolio-link .caption {
+    background-color: #18bc9c !important;
+}
+
+
+/* Swap out all #2c3e50 with a DARK color from your color palette */
+
+body,
+section.success a,
+section.success a:hover,
+section.success a:focus,
+section.success a:active,
+section.success a.active,
+hr.star-primary:after {
+    color: #2c3e50 !important;
+}
+
+.navbar-default,
+footer .footer-below,
+footer .footer-above,
+.portfolio-modal .close-modal .lr,
+.portfolio-modal .close-modal .lr .rl {
+    background-color: #2c3e50 !important;
+}
+
+hr.star-primary {
+    border-color: #2c3e50 !important;
+}
