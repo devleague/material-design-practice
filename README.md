@@ -18,6 +18,10 @@ There's so much you can customize in this template! But first, let's make it our
 
 Now were off to colors! Checkout `http://www.colourlovers.com/` for some inspiration. You'll be doing your color edits in the `css/styles.css` file.
 
+To change the profile photo move a photo called `about_me.jpg` into the `img` folder.
+
+To change the profile photo move a photo called `about_me
+
 Let's add some more in-depth content -- like a "Top 10" list! Work in the `inspiration.html` file. You'll be inserting images and a tagline for ten items. You can make any of these folders for categories of your "Top 10":
 
 1. `top_10_goals`.
